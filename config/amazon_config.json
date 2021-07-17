@@ -8,7 +8,7 @@
 		"B08XNLLPY7"
 	],
 	"reserve_min_1": 300,
-	"reserve_max_1": 525,
+	"reserve_max_1": 530,
 	"__comment": "RTX 3060 TI",
 	"asin_list_2": ["B083Z7TR8Z",
 		"B08WGTL4CW",
@@ -17,7 +17,7 @@
 		"B097S8BR3C"
 	],
 	"reserve_min_2": 300,
-	"reserve_max_2": 525,
+	"reserve_max_2": 530,
 	"amazon_website": "smile.amazon.com",
 	"___comment": "Start with: cmd /k pipenv run python app.py amazon --single-shot --delay=0.1 "
 }
