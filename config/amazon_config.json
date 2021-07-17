@@ -19,5 +19,5 @@
 	"reserve_min_2": 300,
 	"reserve_max_2": 525,
 	"amazon_website": "smile.amazon.com",
-	"___comment": "Start with: cmd /k pipenv run python app.py amazon --single-shot "
+	"___comment": "Start with: cmd /k pipenv run python app.py amazon --single-shot --delay=0.1 "
 }
