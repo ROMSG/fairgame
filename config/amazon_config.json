@@ -5,7 +5,8 @@
 		"B08W8DGK3X",
 		"B08WPJ5P4R",
 		"B08WPRMVWB",
-		"B08XNLLPY7"
+		"B08XNLLPY7",
+		"B08WGTL4CW"
 	],
 	"reserve_min_1": 300,
 	"reserve_max_1": 530,
@@ -24,10 +25,11 @@
 		"B08P3V572B",
 		"B08NYPKW1Z",
 		"B08P2DQ28S",
-		"B08P3XJLJJ"
+		"B08P3XJLJJ",
+		"B08P2H5LW2"
 	],
 	"reserve_min_2": 300,
 	"reserve_max_2": 530,
-	"amazon_website": "smile.amazon.com",
-	"___comment": "Start with: cmd /k pipenv run python app.py amazon --delay=0.1 --single-shot "
+	"amazon_website": "amazon.com",
+	"___comment": "Start from shell with: cmd /k pipenv run python app.py amazon --delay=0.1 --single-shot"
 }
